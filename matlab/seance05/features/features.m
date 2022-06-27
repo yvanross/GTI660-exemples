@@ -1,10 +1,10 @@
 clc;clear
 
-frs = imread('scionFRS.jpg');
+nsx = imread('scionFRS.jpg');
 %createColorHistograms(frs)
 
 %%
-nsx = imread('AcuraNSX.jpg');
+frs = imread('AcuraNSX.jpg');
 %createColorHistograms(nsx)
 
 %%

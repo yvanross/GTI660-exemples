@@ -14,7 +14,7 @@ wins = data(:,1) ./ data(:,2);
 wins = wins ./ max(wins);
 
 
-[idx, centers] = kmeans([wins, playedGames], 3);
+[idx, centers] = kmeans([wins, playedGames], 2);
 
 colormap(lines(5))
 scatter(wins, playedGames, 50, idx, 's')

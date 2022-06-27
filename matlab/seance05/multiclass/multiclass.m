@@ -34,7 +34,7 @@ axis([0 15 0 15])
 figure
 
 allData=cat(1,data1,data2,data3);
-[idx, centers] = kmeans(allData, 2);
+[idx, centers] = kmeans(allData, 3);
 
 colormap(lines(5))
 scatter(allData(:,1), allData(:,2), 50, idx, 's')

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg preserveAspectRatio="xMinYMin meet" width="100%" height="100%" viewBox="0 0 1163.000 417.000"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <desc>Matlab Figure Converted by PLOT2SVG written by Juerg Schwizer</desc>
+  <g id="topgroup">
+  <rect x="0" y="0" width="1163.000" height="417.000" fill="#ffffff" stroke="none" />
+  <g id ="ID000000">
+  <clipPath id="ID000001">
+    <rect x="151.190" y="31.275" width="901.325" height="339.855"/>
+  </clipPath>
+      <polygon fill="#ffffff" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="151.190,371.130 1052.515,371.130 1052.515,31.275 151.190,31.275 "/>
+      <polygon fill="#ffffff" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="151.190,31.275 1052.515,31.275 1052.515,31.275 151.190,31.275 "/>
+      <polygon fill="#ffffff" fill-opacity="1.00" stroke="none" stroke-width="0.5pt" stroke-opacity="1.00" stroke-dasharray="none" points="151.190,371.130 151.190,371.130 151.190,31.275 151.190,31.275 "/>
+    <g>
+<g id="ID000002" clip-path="url(#ID000001)" >
+      <polyline fill="none" stroke="#0000ff" stroke-width="0.5pt" stroke-dasharray="none" points="154.194,72.567 166.212,220.291 181.234,282.428 211.278,301.120 301.411,339.467 451.632,356.460 752.073,363.936 1052.515,369.714 "/>
+<g>
+<circle cx="154.194" cy="72.567" r="3.000" fill="none" stroke="#0000ff" stroke-width="0.5pt" />
+<circle cx="166.212" cy="220.291" r="3.000" fill="none" stroke="#0000ff" stroke-width="0.5pt" />
+<circle cx="181.234" cy="282.428" r="3.000" fill="none" stroke="#0000ff" stroke-width="0.5pt" />
+<circle cx="211.278" cy="301.120" r="3.000" fill="none" stroke="#0000ff" stroke-width="0.5pt" />
+<circle cx="301.411" cy="339.467" r="3.000" fill="none" stroke="#0000ff" stroke-width="0.5pt" />
+<circle cx="451.632" cy="356.460" r="3.000" fill="none" stroke="#0000ff" stroke-width="0.5pt" />
+<circle cx="752.073" cy="363.936" r="3.000" fill="none" stroke="#0000ff" stroke-width="0.5pt" />
+<circle cx="1052.515" cy="369.714" r="3.000" fill="none" stroke="#0000ff" stroke-width="0.5pt" />
+</g>
+</g>
+<g id="ID000003" >
+  <g transform="translate(601.353,403.120)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >Nombre d''exp&#233;riences (E)</text>
+    </g>
+  </g>
+</g>
+<g id="ID000004" >
+  <g transform="translate(123.209,202.702)">
+    <g transform="rotate(-90.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >% Erreur</text>
+    </g>
+  </g>
+</g>
+<g id="ID000005" >
+</g>
+    </g>
+    <g>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="301.411,371.130 301.411,362.117 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="451.632,371.130 451.632,362.117 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="601.852,371.130 601.852,362.117 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="752.073,371.130 752.073,362.117 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="902.294,371.130 902.294,362.117 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,371.130 1052.515,371.130 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="301.411,31.275 301.411,40.288 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="451.632,31.275 451.632,40.288 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="601.852,31.275 601.852,40.288 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="752.073,31.275 752.073,40.288 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="902.294,31.275 902.294,40.288 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,31.275 1052.515,31.275 "/>
+  <g transform="translate(151.190,389.727)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >0</text>
+    </g>
+  </g>
+  <g transform="translate(301.411,389.727)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >500</text>
+    </g>
+  </g>
+  <g transform="translate(451.632,389.727)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >1000</text>
+    </g>
+  </g>
+  <g transform="translate(601.852,389.727)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >1500</text>
+    </g>
+  </g>
+  <g transform="translate(752.073,389.727)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >2000</text>
+    </g>
+  </g>
+  <g transform="translate(902.294,389.727)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >2500</text>
+    </g>
+  </g>
+  <g transform="translate(1052.515,389.727)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="middle" font-size="10pt" fill="#000000" >3000</text>
+    </g>
+  </g>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,314.488 160.203,314.488 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,257.845 160.203,257.845 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,201.203 160.203,201.203 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,144.560 160.203,144.560 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,87.918 160.203,87.918 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,371.130 151.190,31.275 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="1052.515,314.488 1043.502,314.488 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="1052.515,257.845 1043.502,257.845 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="1052.515,201.203 1043.502,201.203 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="1052.515,144.560 1043.502,144.560 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="1052.515,87.918 1043.502,87.918 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="1052.515,371.130 1052.515,31.275 "/>
+  <g transform="translate(133.163,375.630)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#000000" >10</text>
+    </g>
+  </g>
+  <g transform="translate(133.163,318.988)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#000000" >20</text>
+    </g>
+  </g>
+  <g transform="translate(133.163,262.345)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#000000" >30</text>
+    </g>
+  </g>
+  <g transform="translate(133.163,205.703)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#000000" >40</text>
+    </g>
+  </g>
+  <g transform="translate(133.163,149.060)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#000000" >50</text>
+    </g>
+  </g>
+  <g transform="translate(133.163,92.418)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#000000" >60</text>
+    </g>
+  </g>
+  <g transform="translate(133.163,35.775)">
+    <g transform="rotate(-0.0)">
+      <text x="0.000" y="0.000" font-family="Helvetica" text-anchor="end" font-size="10pt" fill="#000000" >70</text>
+    </g>
+  </g>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,371.130 151.190,367.731 "/>
+      <polyline fill="none" stroke="#000000" stroke-width="0.5pt" stroke-dasharray="none" points="151.190,371.130 151.190,371.130 "/>
+    </g>
+  </g>
+  </g>
+</svg>
